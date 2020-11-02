@@ -1,0 +1,18 @@
+# Program specific challenge (ruby)
+
+food = "cereal"
+is_delicious = true
+
+food = "taco"
+
+num2 = 3
+num7 = 10
+quotient = (num7 / num2)
+
+songs = ["New Minglewood Blues", "Loser", "El Paso"]
+
+# Remove first array element
+songs.shift
+
+# Number of characters in string
+food.length
